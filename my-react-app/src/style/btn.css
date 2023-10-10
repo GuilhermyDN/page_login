@@ -1,0 +1,14 @@
+
+.btn {
+    width: 7.125rem;
+    height: 2.4375rem;
+    border-radius: 12px;
+    background-color: var(--color-primary);
+    color: var(--color-grey-2);
+    font-weight: normal;
+    font-size: 1rem;
+    font-family: var(--font-primary);
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+  }
